@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6a1458cb3150c66ce2001016"
+  },
+  "name": "Priyanshi",
+  "department": "CSE"
+},
+{
+  "_id": {
+    "$oid": "6a14595f3150c66ce2001017"
+  },
+  "name": "Prachi",
+  "marks": 90,
+  "location": "chennai"
+}]
